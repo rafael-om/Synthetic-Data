@@ -1,0 +1,10 @@
+Data ID,Location / Name,Samples Interval (minutes),Interpolate Rate,Short Term Samples,Medium Term Time,Medium Term Samples,Long Term Time,Long Term Samples,Sensors,Interpolate Data (%),Observations
+0,Synthetic Data,5,0.9,2,24,6,168,12,440,89.99434448653199,
+1,Synthetic Data,5,0.8,2,24,6,168,12,440,79.95785984848484,
+2,Synthetic Data,5,0.7,2,24,6,168,12,440,69.99197706228956,
+3,Synthetic Data,5,0.6,2,24,6,168,12,440,60.01825547138046,
+4,Synthetic Data,5,0.5,2,24,6,168,12,440,49.99892150673401,
+5,Synthetic Data,5,0.4,2,24,6,168,12,440,40.00665509259259,
+6,Synthetic Data,5,0.3,2,24,6,168,12,440,30.001236321548824,
+7,Synthetic Data,5,0.2,2,24,6,168,12,440,20.01875526094276,
+8,Synthetic Data,5,0.1,2,24,6,168,12,440,9.988741582491583,

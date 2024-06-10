@@ -1,0 +1,4 @@
+Data ID,Location / Name,Samples Interval (minutes),Plus Interval,Short Term Samples,Medium Term Time,Medium Term Samples,Long Term Time,Long Term Samples,Sensors,Observations
+0,Synthetic 16 GNN,5,1,2,24,6,168,12,400,
+1,Synthetic 16 Regression,5,1,2,24,6,168,12,400,
+2,Synthetic 16 CNN,5,1,2,24,6,168,12,400,

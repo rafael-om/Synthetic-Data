@@ -1,0 +1,9 @@
+Data ID,Location / Name,Samples Interval (minutes),Plus Interval,Short Term Samples,Medium Term Time,Medium Term Samples,Long Term Time,Long Term Samples,Sensors,Observations
+0,PEMSD3,5,8,2,24,6,168,12,440,
+1,PEMSD3,5,7,2,24,6,168,12,440,
+2,PEMSD3,5,6,2,24,6,168,12,440,
+3,PEMSD3,5,5,2,24,6,168,12,440,
+4,PEMSD3,5,4,2,24,6,168,12,440,
+5,PEMSD3,5,3,2,24,6,168,12,440,
+6,PEMSD3,5,2,2,24,6,168,12,440,
+7,PEMSD3,5,1,2,24,6,168,12,440,

@@ -1,0 +1,11 @@
+Model ID,Data ID,Split Dataset Array,Final Relu,Convolution Array,K-parameter Array,Initial Learning Rate
+0,0,"[0.4, 0.5]",False,[1],[4],0.01
+1,1,"[0.4, 0.5]",False,[1],[4],0.01
+2,2,"[0.4, 0.5]",False,[1],[4],0.01
+3,3,"[0.4, 0.5]",False,[1],[4],0.01
+4,4,"[0.4, 0.5]",False,[1],[4],0.01
+5,5,"[0.4, 0.5]",False,[1],[4],0.01
+6,6,"[0.4, 0.5]",False,[1],[4],0.01
+7,7,"[0.4, 0.5]",False,[1],[4],0.01
+8,8,"[0.4, 0.5]",False,[1],[4],0.01
+9,9,"[0.4, 0.5]",False,[1],[4],0.01
